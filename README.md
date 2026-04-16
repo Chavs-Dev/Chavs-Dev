@@ -1,74 +1,79 @@
-# Hi there, I'm Evgeniy Fedorchuk <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bmZ3eGZ3eGZ3eGZ3eGZ3eGZ3eGZ3eGZ3eGZ3eGZ3eGZ3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px">
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fullstack%20Engineer&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Evgeniy%20Fedorchuk&fontSize=70&animation=fadeIn&desc=Fullstack%20Engineer%20%7C%20System%20Architect&descAlignY=68&descFontSize=25" />
 </p>
 
-## 🚀 About Me
-I am a versatile **Fullstack Engineer** with a strong focus on **Scalable Backend Architecture**. I don't just write code; I design systems that solve complex business problems. My goal is to bridge the gap between robust backend logic and seamless user experiences.
-
-- 🧠 **Thinking:** System Design, Task Decomposition, Clean Code (SOLID/KISS).
-- 🛠 **Current Mission:** Building a high-performance developer ecosystem and automation tools.
-- 🌍 **Location:** Almaty, Kazakhstan (Open to global challenges).
+<p align="center">
+  <a href="https://t.me/lxvsshall"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.threads.com/@morda.dev"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
-## 💻 Tech Universe
+## ⚡ Quick Summary
+I am a **Fullstack Developer** specialized in architecting high-load systems and intelligent automation. I transform complex business requirements into scalable technical solutions.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌐 Frontend</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+- 🏗 **Architecture:** High-load systems, Microservices, SOLID, Clean Code.
+- 🤖 **AI & Automation:** Gemini 2.0 Flash integration, Telegram ecosystem expertise.
+- 🛠 **Full Cycle:** From database schema design to responsive frontend interfaces.
+
+---
+
+## 🛠 Tech Universe
+
+<table border="0">
+ <tr>
+    <td>
+      <b>Frontend</b><br>
+      <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs&theme=dark" />
     </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Backend</h3>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <td>
+      <b>Backend & DB</b><br>
+      <img src="https://skillicons.dev/icons?i=go,py,nodejs,postgres,redis&theme=dark" />
     </td>
-    <td align="center" width="33%">
-      <h3>🛠 Infrastructure</h3>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+ </tr>
+ <tr>
+    <td>
+      <b>DevOps & Tools</b><br>
+      <img src="https://skillicons.dev/icons?i=docker,git,linux,githubactions,pm2&theme=dark" />
     </td>
-  </tr>
+    <td>
+      <b>Special Skills</b><br>
+      <img src="https://img.shields.io/badge/API-Design-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/System-Observability-blue?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Task-Decomposition-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/AI-Integrations-red?style=flat-square" />
+    </td>
+ </tr>
 </table>
 
 ---
 
-## 📈 Engineering Philosophy
-- **Scalability:** If it can't handle 10x growth, it's a temporary fix.
-- **Maintenance:** Writing code for the "next person" who will maintain it.
-- **Automation:** If it can be automated, it should be.
-
----
-
-## 🔥 What I'm working on right now
-- 🤖 Developing an AI-driven automation engine with **Gemini 2.0 Flash**.
-- 🏗 Crafting a **Developer Calculator** to optimize project cost & time estimation.
-- ⚡ Deep-diving into **System Observability** and high-load performance.
-
----
-
-## 🤝 Let's connect!
-<p align="left">
-<a href="https://t.me/lxvsshall" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.threads.com/@morda.dev" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
-</p>
-
----
-
+## 📈 Contribution Snake
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chavs-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavs-Dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chavs-Dev/Chavs-Dev/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+## 💎 Engineering Philosophy
+> "Code is for people, performance is for machines."
+
+- **Scalability First:** I build every system as if it will handle 1M+ requests tomorrow.
+- **Observability:** If you can't measure it, you can't manage it. PM2 and logging are my best friends.
+- **KISS:** Keeping it simple is the ultimate form of sophistication in architecture.
+
+---
+
+## 🛠 Ongoing Projects
+- 📐 **Developer Calculator:** A system for deep project decomposition and estimation.
+- 🧠 **Gemini Bot Engine:** Scalable framework for AI-driven Telegram automation.
+- ⚡ **Go-Micro-Template:** A high-performance starter kit for microservices.
 
 <p align="center">
   <img src="https://streak-stats.herokuapp.com/?user=Chavs-Dev&theme=tokyonight&hide_border=true" width="100%" />
