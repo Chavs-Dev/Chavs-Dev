@@ -35,6 +35,21 @@ I specialize in designing and implementing high-load infrastructures. My philoso
 
 ---
 
+### 📊 Real-time Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chavs-Dev&layout=compact&theme=tokyonight&hide_border=true&display_format=abbreviated" width="48%" alt="WakaTime Stats" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="48%" alt="Daily Quotes" />
+</p>
+
+---
+
+### 🏗 Knowledge Base & Current Research
+- 🌀 **High-Load Patterns:** Deep diving into Event-Driven Architecture (EDA) and Saga patterns.
+- ⚡ **Go Performance:** Benchmarking and memory optimization for microservices.
+- 🧠 **AI-Native Apps:** Engineering sophisticated prompts and context windows for Gemini 2.0.
+
+---
+
 ### 💎 Engineering Principles
 > **"Build systems as if the person maintaining them is a violent psychopath who knows where you live."**
 
