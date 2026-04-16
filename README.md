@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A9FEFF&center=true&vCenter=true&width=500&lines=Scalable+Backend+Systems;High-Load+Architecture;Fullstack+Magic;AI+Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A9FEFF&center=true&vCenter=true&width=500&lines=Scalable+Backend+Systems;High-Load+Architecture;Fullstack+Magic;AI+Automation+Expert" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,19 +20,13 @@ I specialize in designing and implementing high-load infrastructures. My philoso
 ## 🛠 Tech Universe & Mastery
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,js,nodejs,react,nextjs,postgres,redis,docker,linux,git,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,py,js,nodejs,react,nextjs,postgres,redis,docker,linux,git,githubactions&theme=dark&perline=6" />
 </p>
 
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Chavs-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="400px" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavs-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="300px" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chavs-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavs-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
 
 ---
 
@@ -62,5 +56,5 @@ I specialize in designing and implementing high-load infrastructures. My philoso
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.herokuapp.com/?user=Chavs-Dev&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Chavs-Dev&theme=tokyonight&hide_border=true&background=00000000" width="100%" alt="GitHub Streak" />
 </p>
