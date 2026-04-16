@@ -1,89 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=Evgeniy%20Fedorchuk&fontSize=80&animation=twinkling&fontAlignY=45&desc=Fullstack%20Engineer%20%7C%20Software%20Architect&descAlignY=65&descFontSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=280&section=header&text=Evgeniy%20Fedorchuk&fontSize=80&animation=twinkling&desc=Fullstack%20Engineer%20%7C%20System%20Architect&descAlignY=68&descFontSize=25" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/lxvsshall"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.threads.com/@morda.dev"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Open_for_Offers-brightgreen?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A9FEFF&center=true&vCenter=true&width=500&lines=Scalable+Backend+Systems;High-Load+Architecture;Fullstack+Magic;AI+Automation+Expert" alt="Typing SVG" />
 </p>
 
 ---
 
-## ⚡ Executive Summary
-I am a **Fullstack Engineer** with a strategic mindset. I specialize in architecting high-performance backend cores and building intuitive, responsive interfaces. My focus is on creating systems that are **scalable by design** and **maintainable by default**.
+## ⚡ Technical Vision
+I specialize in designing and implementing high-load infrastructures. My philosophy centers on **predictable performance** and **zero-debt architecture**. 
 
-- 🏗 **Core:** Distributed Systems, Microservices, API Design (REST/gRPC).
-- 🧠 **Strategy:** Task Decomposition, Cost Estimation, Clean Architecture.
-- 🤖 **Intelligence:** Gemini AI Integration & Advanced Telegram Automation.
+- 🏗 **Architecture:** Microservices, Distributed Systems, gRPC/REST.
+- 🤖 **Intelligence:** Building autonomous logic with **Gemini 2.0 Flash API**.
+- ⚡ **Execution:** From project cost estimation to production-ready Docker clusters.
 
 ---
 
-## 🛠 My Tech Universe
+## 🛠 Tech Universe & Mastery
 
-<table border="0" width="100%">
- <tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,js,nodejs,react,nextjs,postgres,redis,docker,linux,git,githubactions&theme=dark" />
+</p>
+
+<table border="0" align="center" width="100%">
+  <tr>
     <td align="center">
-      <b>Frontend Evolution</b><br>
-      <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Chavs-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="400px" />
     </td>
     <td align="center">
-      <b>Backend Powerhouse</b><br>
-      <img src="https://skillicons.dev/icons?i=go,py,nodejs,postgres,redis,mongodb&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavs-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="300px" />
     </td>
- </tr>
- <tr>
-    <td align="center">
-      <b>DevOps & Cloud</b><br>
-      <img src="https://skillicons.dev/icons?i=docker,git,linux,githubactions,pm2,nginx&theme=dark" />
-    </td>
-    <td align="center">
-      <b>Methodology</b><br>
-      <img src="https://img.shields.io/badge/SOLID-black?style=flat-square" />
-      <img src="https://img.shields.io/badge/DRY/KISS-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/System_Observability-blue?style=flat-square" />
-    </td>
- </tr>
+  </tr>
 </table>
 
 ---
 
-## 🔄 Development Workflow
-`Analysis` ➔ `Architecture Design` ➔ `Scalable Coding` ➔ `Unit Testing` ➔ `CI/CD & Deployment`
-
----
-
-## 🏆 GitHub Trophies
+## 📊 3D Contribution Space
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chavs-Dev&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chavs-Dev&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
-## 📊 Performance Metrics
+## 🔄 The Pipeline
+`Analysis` ➔ `Architecture` ➔ `Dev` ➔ `Optimization` ➔ `Observability`
+
+---
+
+## 💎 Engineering Principles
+- **Scalability:** Built for millions, optimized for current needs.
+- **Clean Code:** SOLID, KISS, and maintainable documentation.
+- **Transparency:** Clear contracts between services and reliable observability.
+
+---
+
+## 🤝 Connectivity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chavs-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavs-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <a href="https://t.me/lxvsshall"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.threads.com/@morda.dev"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
 </p>
 
----
-
-## 💎 Engineering Philosophy
-> "Build systems as if the person maintaining them is a violent psychopath who knows where you live."
-
-- **No Technical Debt:** If a solution is temporary, it must be documented and isolated.
-- **Performance:** Optimized for high-load from the first line of code.
-- **Scalability:** Every module is designed to grow independently.
-
----
-
-## 📩 Connectivity
-**Looking for a technical partner or a high-impact role? Let's talk.**
-
-- **Telegram:** [@lxvsshall](https://t.me/lxvsshall)
-- **Threads:** [@morda.dev](https://www.threads.com/@morda.dev)
-- **Location:** Almaty, Kazakhstan 🇰🇿
-
 <p align="center">
-  <img src="https://streak-stats.herokuapp.com/?user=Chavs-Dev&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+  <img src="https://streak-stats.herokuapp.com/?user=Chavs-Dev&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
 </p>
